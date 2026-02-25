@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 #define ramene return
-#define si if 
+#define si if
 #define popire else
 #define tantot while
 #define pour for
@@ -16,7 +16,6 @@
 #define poursuis continue
 #define danslefond default
 #define definitletype typedef
-
 
 #define jaser printf
 #define clavarder scanf
